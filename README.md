@@ -13,6 +13,7 @@ I care about clear models, careful backtests, and shipping systems people actual
 | [`apollo`](https://github.com/KoKa-Akshat/apollo) | Probability → Markov → Monte Carlo → HMMs (Stat110-aligned learning path) |
 | [`projects`](https://github.com/KoKa-Akshat/projects) | Pairs trading lab: V–MA spread, hedge ratio, ADF, half-life |
 | [`Big-Project-1-Momentum-strategies-backtesting`](https://github.com/KoKa-Akshat/Big-Project-1-Momentum-strategies-backtesting) | Stochastic oscillator / momentum backtest in Python |
+| [`academic-quant-portfolio`](https://github.com/KoKa-Akshat/academic-quant-portfolio) | Curated Macalester coursework: Empirical Finance, Comp Lin Alg (R), Econometrics (Stata), math modeling |
 | [`fluFrenzy`](https://github.com/KoKa-Akshat/fluFrenzy) | Campus disease-spread simulation (SIR / R₀) — modeling + product polish |
 
 #### Product / systems
@@ -36,6 +37,3 @@ I care about clear models, careful backtests, and shipping systems people actual
 ---
 
 *Looking for **Quantitative Trader / research** roles (2026). Twin Cities base · open to Chicago / remote.*
-
-### Academic coursework
-- [academic-quant-portfolio](https://github.com/KoKa-Akshat/academic-quant-portfolio) — curated R / Python / Stata quant coursework showcase
