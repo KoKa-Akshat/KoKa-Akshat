@@ -36,3 +36,6 @@ I care about clear models, careful backtests, and shipping systems people actual
 ---
 
 *Looking for **Quantitative Trader / research** roles (2026). Twin Cities base · open to Chicago / remote.*
+
+### Academic coursework
+- [academic-quant-portfolio](https://github.com/KoKa-Akshat/academic-quant-portfolio) — curated R / Python / Stata quant coursework showcase
